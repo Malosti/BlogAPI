@@ -1,4 +1,0 @@
-senha Smtp: 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
-ApiKey: curso_api_55eafc16-c8dc-4c0c-a831-44da3c1a1f27
-senha Jwt: f17eff9df7ff4f249f958a75300b13af=Mz
-string connection: Server=localhost,1433;Database=Blog;User ID=sa;Password=1q2w3e4r@#$;Trust Server Certificate=true
